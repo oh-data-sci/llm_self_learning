@@ -1,4 +1,4 @@
-llm from scratch
+large language models - from scratch
 ===
 # introduction
 notes from following along the freecodecamp's llm from scratch course.
